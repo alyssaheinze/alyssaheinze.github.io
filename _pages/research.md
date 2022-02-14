@@ -13,7 +13,7 @@ _With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://ww
 Research on representative democracy often assumes that elected officials from disadvantaged and dominant groups are equally influential once in office. Drawing on an original survey in 319 Indian village councils, we leverage both reputational measures and behavioral observations to show that this assumption does not hold. Women elected through gender quotas do not equally affect decision-making in village councils after their election. Analyses suggest that this gender disadvantage can be magnified or mitigated by inequalities on other identity dimensions. Recognition of this underappreciated form of political inequality is imperative for scholars to accurately identify the strengths and limitations of descriptive representation. From a policy standpoint, this suggests that reforms aiming to increase the representation of members of disadvantaged groups (e.g. quotas) may not alone suffice to enable individuals from traditionally excluded groups to affect policy. 
 
 _Under review. Contact for working paper._
- 
+
 Why Discussion Rules Matter for Representation: Experimental Evidence from Rural India
 ======
 
@@ -51,4 +51,3 @@ resentation (via quotas) in Indian gram panchayats overwhelmingly offer one alte
 native hypothesis to that of women’s political empowerment: that women elected into quota-reserved seats are ”proxies” or mouthpieces for their husbands or male relatives, who would have run for office had the seat not been reserved. I scrutinize this narrative after 22 months of ethnographic fieldwork in and around village councils in rural Maharashtra. I find that barriers to women sarpanchs’ political voice go much further than the household. I argue that they are embedded in the institutional design of local government. The village council president is embedded in a group institution alongside powerful actors involved in decision-making. The identity of these actors, and the relative inequality in status between them, informs whether a woman sarpanch has voice in collective decision-making.
 
 _Contact for working paper._
-
