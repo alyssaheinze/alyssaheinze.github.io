@@ -24,7 +24,7 @@ Research on representative democracy often assumes that elected officials from d
 _In progress. Contact for pre-analysis plan (registered with EGAP)._
 
 
-Do peer mentorship groups increase the political agency of first-time female politicians?
+Do Peer Mentorship Groups Increase the Political Agency of First-time Female Politicians?
 ======
 
 _With [Bhumi Purohit](https://www.bhumipurohit.com/), [Rachel Brulé](https://rachelbrule.com), and [Simon Chauchard](https://www.simonchauchard.com/)._
@@ -47,7 +47,6 @@ Beyond _Sarpanch Pati_: Institutional Barriers to Women Sarpanchs' Voice
 
 The mainstream consensus says that the largest obstacle to the political voice of
 the quota-elected woman sarpanch (village council president) is the sarpanch pati (literally: sarpanch’s husband). Studies on the impact of women’s descriptive rep-
-resentation (via quotas) in Indian gram panchayats overwhelmingly offer one alter-
-native hypothesis to that of women’s political empowerment: that women elected into quota-reserved seats are ”proxies” or mouthpieces for their husbands or male relatives, who would have run for office had the seat not been reserved. I scrutinize this narrative after 22 months of ethnographic fieldwork in and around village councils in rural Maharashtra. I find that barriers to women sarpanchs’ political voice go much further than the household. I argue that they are embedded in the institutional design of local government. The village council president is embedded in a group institution alongside powerful actors involved in decision-making. The identity of these actors, and the relative inequality in status between them, informs whether a woman sarpanch has voice in collective decision-making.
+resentation (via quotas) in Indian gram panchayats overwhelmingly offer one alternative hypothesis to that of women’s political empowerment: that women elected into quota-reserved seats are ”proxies” or mouthpieces for their husbands or male relatives, who would have run for office had the seat not been reserved. I scrutinize this narrative after 22 months of ethnographic fieldwork in and around village councils in rural Maharashtra. I find that barriers to women sarpanchs’ political voice go much further than the household. I argue that they are embedded in the institutional design of local government. The village council president is embedded in a group institution alongside powerful actors involved in decision-making. The identity of these actors, and the relative inequality in status between them, informs whether a woman sarpanch has voice in collective decision-making.
 
 _Contact for working paper._
