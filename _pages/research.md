@@ -5,6 +5,16 @@ author_profile: true
 ---
 {% include base_path %}
 
+"Proxy Politics”: Representation and Political Inequality in Rural India
+======
+
+_With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://www.simonchauchard.com/)._
+
+On the heels of reservations embedded in the 1993 Constitutional Amendment – the Panchayati Raj Act, a critical mass of women have entered local politics in India. While these gendered changes were rightly celebrated, they also quickly gave rise to a new term: sarpanch-pati. The term implies that where women are de jure elected, their husbands de facto run the local state. Discourse suggests that Sarpanch-patism constitutes the main hurdle to female-led government in rural India. Yet, drawing on our long-term study of these institutions in several hundred villages since 2018, we do not believe that the hurdles women face in
+exercising their legally mandated roles in elected government can be reduced to a problem of sarpanch-patism, nor that sarpanch-patism constitutes the central limitation to the ability of local officials to implement better policies. We present the first, large-scale descriptive attempt to empirically investigate and map the extent of barriers to sarpanchs' power - beyond (and including) sarpanch pati - in 600 villages in rural Maharashtra.
+
+_Book project._
+
 Who Actually Governs? Gender Inequality and Representation in Rural India
 ======
 
