@@ -14,4 +14,4 @@ Other writing
 Translation 
 ======
 
-* Bower, Voors, and Ichino. 2021. [La théorie et la pratique des expériences de terrain : Une introduction des journées d'apprentissage du réseau EGAP](https://egap.github.io/theory_and_practice_of_field_experiments/). Translated to French.
+* Bower, Voors, and Ichino. 2021. [La théorie et la pratique des expériences de terrain : Une introduction des journées d'apprentissage du réseau EGAP](https://egap.github.io/theory_and_practice_of_field_experiments_french/). Translated to French.
