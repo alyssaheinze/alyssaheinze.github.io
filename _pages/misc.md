@@ -8,7 +8,7 @@ author_profile: true
 Other writing
 ======
 
-* She Rules! The Political Representation of Women in India. Co-editor of Seminar Issue with Simon Chauchard, Rachel Brulé, and Mekhala Krishnamurthy.
+* She Rules! The Political Representation of Women in India. Co-editor of Seminar Issue with Simon Chauchard, Rachel Brulé, and Mekhala Krishnamurthy. Our article "Are Husbands the Problem?" [here](https://www.india-seminar.com/2022/752/752-RACHEL_SIMON_ALYSSA.htm).
 * "Sarpanch pati : Bharatiya raajkaaranaat mahilaancha sthaan nakki kaay?” Maharashtra Times, April 2019. English [here](https://docs.google.com/document/d/1qEn5LgUd1ZF1JpFPCbjrIq61TFOqbwbbc-s2eUKlu7M/edit?usp=sharing). Marathi [here](https://maharashtratimes.indiatimes.com/lifestyle-news/relationships/sarpanch-husband/articleshow/68952693.cms).
 
 Translation 
