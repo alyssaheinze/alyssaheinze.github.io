@@ -19,6 +19,6 @@ Translation
 Teaching
 ======
 
-* [EGAP Learning Days] (https://egap.org/learning-days/) Instructor @ [CERAP](https://egap.org/project/west-africa-regional-hub-learning-days-workshop/), Abidjan, Côte d'Ivoire (July 2022)
+* [EGAP Learning Days](https://egap.org/learning-days/) Instructor @ [CERAP](https://egap.org/project/west-africa-regional-hub-learning-days-workshop/), Abidjan, Côte d'Ivoire (July 2022)
 * Political Science 3 (Undergraduate): Introduction to Empirical Analysis & Quantitative Methods (Fall 2022)
 * Political Science 231b (Graduate): Quantitative Analysis in Political Research (Spring 2023)
