@@ -22,5 +22,5 @@ Teaching
 * [EGAP Learning Days](https://egap.org/learning-days/) Instructor @ [CERAP](https://egap.org/project/west-africa-regional-hub-learning-days-workshop/), Abidjan, Côte d'Ivoire (July 2022)
     * EGAP Refresher on Statistical Power Instructor (September 2022)
 * Political Science 3 (Undergraduate): Introduction to Empirical Analysis & Quantitative Methods (Fall 2022)
-    * Student evaluations for sections [1](./files/PS3-section1.pdf) and [2](./files/PS3-section2.pdf)
+    * Student evaluations for sections [1](./../files/PS3-section1.pdf) and [2](../files/PS3-section2.pdf)
 * Political Science 231b (Graduate): Quantitative Analysis in Political Research (Spring 2023)
