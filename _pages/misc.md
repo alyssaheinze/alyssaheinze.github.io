@@ -15,3 +15,10 @@ Translation
 ======
 
 * Bower, Voors, and Ichino. 2021. [La théorie et la pratique des expériences de terrain : Une introduction des journées d'apprentissage du réseau EGAP](https://egap.github.io/theory_and_practice_of_field_experiments_french/). Translated to French.
+
+Teaching
+======
+
+* [EGAP Learning Days] (https://egap.org/learning-days/) Instructor @ [CERAP](https://egap.org/project/west-africa-regional-hub-learning-days-workshop/), Abidjan, Côte d'Ivoire (July 2022)
+* Political Science 3 (Undergraduate): Introduction to Empirical Analysis & Quantitative Methods (Fall 2022)
+* Political Science 231b (Graduate): Quantitative Analysis in Political Research (Spring 2023)
