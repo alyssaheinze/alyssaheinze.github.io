@@ -23,4 +23,4 @@ Teaching
     * EGAP Refresher on Statistical Power Instructor (September 2022)
 * Political Science 3 (Undergraduate): Introduction to Empirical Analysis & Quantitative Methods (Fall 2022)
     * Student evaluations for sections [1](https://alyssaheinze.github.io/files/PS3-section1.pdf) and [2](https://alyssaheinze.github.io/files/PS3-section2.pdf)
-* Political Science 231b (Graduate): Quantitative Analysis in Political Research (Spring 2023)
+* Political Science 231b (Graduate): Quantitative Analysis in Political Research: Design and Causal Inference (Spring 2023)
