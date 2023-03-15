@@ -5,6 +5,13 @@ author_profile: true
 ---
 {% include base_path %}
 
+Empowering the local executive: Electoral reform and disrupting elite coalitions
+======
+
+In decentralized government, concerns about the _de facto_ political authority of locally elected executives abound. At times, these leaders may be sidelined from their _de jure_ roles by traditional elites, who operate formal institutions in their place. This article proposes that the design of local elections - whether local politicians are elected directly (by the people) or indirectly (via elite nomination) - shapes the _de facto_ authority of local executives. Direct elections usher in stronger local executives and constrain opportunities for elite coalitions to control political institutions. Conversely, indirect elections leave leeway for elite manipulation of these institutions. I study a policy experiment in village councils in Maharashtra, India, which produced variation in the way local executives were elected - either directly or indirectly. I draw on large-scale survey and administrative quantitative data as well as observational and interview-based qualitative data to provide evidence for this argument. This study implies that electoral institutional reforms can have broad implications for the microfoundations of executive authority at the local level. 
+
+_Contact for working paper._
+
 "Proxy Politics”: Representation and Political Inequality in Rural India
 ======
 
@@ -22,7 +29,7 @@ _With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://ww
 
 Research on representative democracy often assumes that elected officials from disadvantaged and dominant groups have equal input into decision-making once in office. Drawing on an original survey in 320 Indian village councils, we leverage both reputational and behavioral measures to show that this assumption does not hold. Women elected through gender quotas do not equally participate in decision-making processes within village councils. We additionally show that these inequalities owe to both discrimination and selection mechanisms. Recognition of this underappreciated form of political inequality is imperative for scholars to accurately identify the strengths and limitations of descriptive representation. From a policy standpoint, this suggests that reforms aiming to increase the representation of members of traditionally excluded groups (quotas) may not be sufficient to enable individuals from long-excluded groups to play a role in decision-making. 
 
-_Revise and resubmit. Contact for working paper._
+_Revise and resubmit at the JOP. Contact for working paper._
 
 Why Discussion Rules Matter for Representation: Experimental Evidence from Rural India
 ======
