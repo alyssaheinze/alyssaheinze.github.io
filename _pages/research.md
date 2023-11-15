@@ -29,7 +29,7 @@ _With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://ww
 
 Research on representative democracy often assumes that elected officials from disadvantaged and dominant groups have equal input into decision-making once in office. Drawing on an original survey in 320 Indian village councils, we leverage both reputational and behavioral measures to show that this assumption does not hold. Women elected through gender quotas do not equally participate in decision-making processes within village councils. We additionally show that these inequalities owe to both discrimination and selection mechanisms. Recognition of this underappreciated form of political inequality is imperative for scholars to accurately identify the strengths and limitations of descriptive representation. From a policy standpoint, this suggests that reforms aiming to increase the representation of members of traditionally excluded groups (quotas) may not be sufficient to enable individuals from long-excluded groups to play a role in decision-making. 
 
-_Revise and resubmit at the JOP. Contact for working paper._
+_Conditionally accepted at the JOP._
 
 Why Discussion Rules Matter for Representation: Experimental Evidence from Rural India
 ======
