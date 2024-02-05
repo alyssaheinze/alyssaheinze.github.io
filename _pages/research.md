@@ -1,0 +1,67 @@
+---
+layout: archive
+permalink: /research/
+author_profile: true
+---
+{% include base_path %}
+
+Empowering the local executive: Electoral reform and disrupting elite coalitions
+======
+
+In decentralized government, concerns about the _de facto_ political authority of locally elected executives abound. At times, these leaders may be sidelined from their _de jure_ roles by traditional elites, who operate formal institutions in their place. This article proposes that the design of local elections - whether local politicians are elected directly (by the people) or indirectly (via elite nomination) - shapes the _de facto_ authority of local executives. Direct elections usher in stronger local executives and constrain opportunities for elite coalitions to control political institutions. Conversely, indirect elections leave leeway for elite manipulation of these institutions. I study a policy experiment in village councils in Maharashtra, India, which produced variation in the way local executives were elected - either directly or indirectly. I draw on large-scale survey and administrative quantitative data as well as observational and interview-based qualitative data to provide evidence for this argument. This study implies that electoral institutional reforms can have broad implications for the microfoundations of executive authority at the local level. 
+
+_Contact for working paper._
+
+"Proxy Politics”: Representation and Political Inequality in Rural India
+======
+
+_With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://www.simonchauchard.com/)._
+
+On the heels of reservations embedded in the 1993 Constitutional Amendment – the Panchayati Raj Act, a critical mass of women have entered local politics in India. While these gendered changes were rightly celebrated, they also quickly gave rise to a new term: sarpanch-pati. The term implies that where women are de jure elected, their husbands de facto run the local state. Discourse suggests that Sarpanch-patism constitutes the main hurdle to female-led government in rural India. Yet, drawing on our long-term study of these institutions in several hundred villages since 2018, we do not believe that the hurdles women face in
+exercising their legally mandated roles in elected government can be reduced to a problem of sarpanch-patism, nor that sarpanch-patism constitutes the central limitation to the ability of local officials to implement better policies. We present the first, large-scale descriptive attempt to empirically investigate and map the extent of barriers to sarpanchs' power - beyond (and including) sarpanch pati - in 600 villages in rural Maharashtra.
+
+_Book project._
+
+Who Actually Governs? Gender Inequality and Representation in Rural India
+======
+
+_With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://www.simonchauchard.com/)._
+
+Research on representative democracy often assumes that elected officials from disadvantaged and dominant groups have equal input into decision-making once in office. Drawing on an original survey in 320 Indian village councils, we leverage both reputational and behavioral measures to show that this assumption does not hold. Women elected through gender quotas do not equally participate in decision-making processes within village councils. We additionally show that these inequalities owe to both discrimination and selection mechanisms. Recognition of this underappreciated form of political inequality is imperative for scholars to accurately identify the strengths and limitations of descriptive representation. From a policy standpoint, this suggests that reforms aiming to increase the representation of members of traditionally excluded groups (quotas) may not be sufficient to enable individuals from long-excluded groups to play a role in decision-making. 
+
+_Conditionally accepted at the JOP._
+
+Why Discussion Rules Matter for Representation: Experimental Evidence from Rural India
+======
+
+_With [Rachel Brulé](https://rachelbrule.com/) and [Simon Chauchard](https://www.simonchauchard.com/)._
+
+Research on representative democracy often assumes that elected officials from disadvantaged and dominant groups are equally influential once in office. Drawing on an original survey in 600 Indian village councils, we 1) leverage both reputational measures and behavioral observations to show that this assumption does not hold, and 2) Implement an intervention to alleviate the gender gap in influence detected in 1. In the first part of the paper, we rely on an array of objective and subjective indicators to show that female village council presidents (sarpanches) elected through gender quotas do not equally affect decision-making in village councils after their election. Analyses suggest that this gender disadvantage can be magnified or mitigated by inequalities on other identity dimensions. This suggests that reforms aiming to increase the representation of members of disadvantaged groups (e.g. quotas) may not alone suffice to enable individuals from traditionally excluded groups to affect policy. Taking stock of this, the second part of the paper investigates whether changes in formal rules of discussion, in a standardized version of local village council meetings, can increase the influence that female officials have in a collective decision-making process. We argue that minor changes in formal discussion rules may alter engagement of elected leaders in decision making processes.
+
+_In progress. Contact for pre-analysis plan (registered with EGAP)._
+
+
+Do Peer Mentorship Groups Increase the Political Agency of First-time Female Politicians?
+======
+
+_With [Bhumi Purohit](https://www.bhumipurohit.com/), [Rachel Brulé](https://rachelbrule.com), and [Simon Chauchard](https://www.simonchauchard.com/)._
+
+Despite women’s increasing representation in politics, their political agency is disrupted by household and institutional gatekeepers alike. Female politicians are thus often perceived as “proxies” for men, particularly in settings like South Asia where gender quotas have given rise to women’s candidacy at an exceptionally large scale. Limited political agency not only prevents women from meaningfully occupying elected office, but also poses a problem for the  expectation that women’s elections will translate to public goods provision and budget allocations that meet female voters’ needs. We assess one pathway to improve women’s political agency: peer mentorship provided by female politicians who are particularly experienced and/or active decision-makers in their communities. We expect that peer mentorship will translate into both attitudinal and behavioral improvements in women’s political agency in the short-term. In the medium-term, we expect to observe women’s increased ability to seek re-election and to utilize budgets to improve women’s lives. This intervention provides the first empirical evidence for how mentorship groups can affect women’s political agency, and sets the stage for larger policy and research interventions in the future.
+
+_In progress. Contact for project plan._
+
+Gender, Education, and the Black Box of Descriptive Representation
+======
+
+_With [Soledad Artiz Prillaman](https://www.soledadprillaman.com/) and Shirin Abrishami Kashani._
+
+Many have shown that women’s electoral representation bears significant impact on policy outcomes, particularly in India. Yet the reasons behind this remain a black box. In fact, on-the-ground realities have led many to wonder whether women are sufficiently qualified and experienced to serve as effective representatives. In response to such concerns, several states have adopted educational requirements for locally elected officials. We study the adoption of an education requirement in one such state, Haryana, to understand how education, a proxy for politician capability, affects the link between descriptive and substantive representation. 
+
+_In progress._
+
+Beyond _Sarpanch Pati_: Institutional Barriers to Women Sarpanchs' Voice
+======
+
+The mainstream consensus says that the largest obstacle to the political voice of the quota-elected woman sarpanch (village council president) is the sarpanch pati (literally: sarpanch’s husband). Studies on the impact of women’s descriptive representation (via quotas) in Indian gram panchayats overwhelmingly offer one alternative hypothesis to that of women’s political empowerment: that women elected into quota-reserved seats are ”proxies” or mouthpieces for their husbands or male relatives, who would have run for office had the seat not been reserved. I scrutinize this narrative after 22 months of ethnographic fieldwork in and around village councils in rural Maharashtra. I find that barriers to women sarpanchs’ political voice go much further than the household. I argue that they are embedded in the institutional design of local government. The village council president is embedded in a group institution alongside powerful actors involved in decision-making. The identity of these actors, and the relative inequality in status between them, informs whether a woman sarpanch has voice in collective decision-making.
+
+_Contact for working paper._
