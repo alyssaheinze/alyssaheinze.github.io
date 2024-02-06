@@ -1,0 +1,31 @@
+name: Deploy Website
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+  #    - name: Fix permissions
+  #      run: |
+  #        chmod -c -R +rX "_site/" | while read line; do
+  #          echo "::warning title=Invalid file permissions automatically fixed::$line"
+  #        done
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+  deploy:
+    needs: build
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
