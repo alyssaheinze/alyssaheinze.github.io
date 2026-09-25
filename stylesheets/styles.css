@@ -67,7 +67,9 @@ a:focus-visible {
 .role {
   margin: 0;
   color: var(--muted);
+  font-size: 0.93rem;
   line-height: 1.55;
+  white-space: nowrap;
 }
 
 .portrait {
@@ -319,13 +321,13 @@ cite { font-style: italic; }
   .name { grid-row: 1; }
 
   .portrait {
-    grid-row: 2;
+    grid-row: 3;
     width: 14.5rem;
     height: 18rem;
     margin: 1rem 0;
   }
 
-  .role { grid-row: 3; }
+  .role { grid-row: 2; }
 
   nav { margin: 1.2rem 0; }
 
@@ -341,7 +343,7 @@ cite { font-style: italic; }
 
   .portrait {
     grid-column: 1;
-    grid-row: 2;
+    grid-row: 3;
     width: 12rem;
     height: 15rem;
     margin: 1rem 0;
