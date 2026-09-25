@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" role="img" aria-labelledby="title desc">
-  <title id="title">Farm-sector suicides in Maharashtra and the average Indian state, 2023–2024</title>
-  <desc id="desc">Line chart comparing farm-sector deaths by suicide in Maharashtra with the average across Indian states in 2023 and 2024. Maharashtra recorded 4,151 deaths in 2023 and 3,824 in 2024, compared with state averages of 383 and 375.</desc>
+  <title id="title">Farm-sector suicides in Maharashtra and the all-India total per 28 states, 2019–2024</title>
+  <desc id="desc">Line chart comparing annual farm-sector deaths by suicide in Maharashtra with the all-India farm-sector total divided by 28 states. Maharashtra remains far above the national per-state value throughout the period.</desc>
   <rect width="820" height="470" fill="#fff"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="72" y="30" font-size="22" font-weight="700" fill="#171717">Maharashtra and the state average</text>
+    <text x="72" y="30" font-size="22" font-weight="700" fill="#171717">Maharashtra and the national per-state value</text>
     <g stroke="#dedbd5" stroke-width="1">
       <line x1="74" y1="370" x2="780" y2="370"/>
       <line x1="74" y1="301" x2="780" y2="301"/>
@@ -18,29 +18,32 @@
       <text x="64" y="168">3,000</text>
       <text x="64" y="99">4,000</text>
     </g>
-    <g fill="#6d6a66" font-size="14" text-anchor="middle">
-      <text x="250" y="404">2023</text>
-      <text x="610" y="404">2024</text>
+    <g fill="#6d6a66" font-size="13" text-anchor="middle">
+      <text x="110" y="399">2019</text><text x="242" y="399">2020</text>
+      <text x="374" y="399">2021</text><text x="506" y="399">2022</text>
+      <text x="638" y="399">2023</text><text x="770" y="399">2024</text>
     </g>
-    <polyline fill="none" stroke="#a61f2b" stroke-width="6" stroke-linecap="round" points="250,84 610,107"/>
-    <polyline fill="none" stroke="#8c918d" stroke-width="5" stroke-linecap="round" points="250,343 610,344"/>
+    <polyline fill="none" stroke="#a61f2b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" points="110,100 242,94 374,90 506,77 638,84 770,107"/>
+    <polyline fill="none" stroke="#8c918d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="110,345 242,344 374,343 506,342 638,343 770,344"/>
     <g fill="#a61f2b">
-      <circle cx="250" cy="84" r="7"/><circle cx="610" cy="107" r="7"/>
+      <circle cx="110" cy="100" r="6"/><circle cx="242" cy="94" r="6"/><circle cx="374" cy="90" r="6"/><circle cx="506" cy="77" r="6"/><circle cx="638" cy="84" r="6"/><circle cx="770" cy="107" r="6"/>
     </g>
     <g fill="#8c918d">
-      <circle cx="250" cy="343" r="7"/><circle cx="610" cy="344" r="7"/>
+      <circle cx="110" cy="345" r="6"/><circle cx="242" cy="344" r="6"/><circle cx="374" cy="343" r="6"/><circle cx="506" cy="342" r="6"/><circle cx="638" cy="343" r="6"/><circle cx="770" cy="344" r="6"/>
     </g>
-    <g font-size="15" font-weight="700" text-anchor="middle">
-      <text x="250" y="68" fill="#a61f2b">4,151</text>
-      <text x="610" y="91" fill="#a61f2b">3,824</text>
-      <text x="250" y="329" fill="#6f7571">383</text>
-      <text x="610" y="330" fill="#6f7571">375</text>
+    <g font-size="12" font-weight="700" text-anchor="middle">
+      <text x="110" y="84" fill="#a61f2b">3,927</text><text x="242" y="78" fill="#a61f2b">4,006</text>
+      <text x="374" y="74" fill="#a61f2b">4,064</text><text x="506" y="61" fill="#a61f2b">4,248</text>
+      <text x="638" y="68" fill="#a61f2b">4,151</text><text x="770" y="91" fill="#a61f2b">3,824</text>
+      <text x="110" y="332" fill="#6f7571">367</text><text x="242" y="331" fill="#6f7571">381</text>
+      <text x="374" y="330" fill="#6f7571">389</text><text x="506" y="329" fill="#6f7571">403</text>
+      <text x="638" y="330" fill="#6f7571">385</text><text x="770" y="331" fill="#6f7571">377</text>
     </g>
     <g font-size="14">
-      <line x1="155" y1="438" x2="185" y2="438" stroke="#a61f2b" stroke-width="6"/>
-      <text x="195" y="443" fill="#242424">Maharashtra</text>
-      <line x1="376" y1="438" x2="406" y2="438" stroke="#8c918d" stroke-width="5"/>
-      <text x="416" y="443" fill="#242424">Average Indian state</text>
+      <line x1="130" y1="438" x2="160" y2="438" stroke="#a61f2b" stroke-width="6"/>
+      <text x="170" y="443" fill="#242424">Maharashtra</text>
+      <line x1="350" y1="438" x2="380" y2="438" stroke="#8c918d" stroke-width="5"/>
+      <text x="390" y="443" fill="#242424">All-India total ÷ 28 states</text>
     </g>
   </g>
 </svg>
