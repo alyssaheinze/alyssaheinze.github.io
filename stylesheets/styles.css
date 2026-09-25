@@ -108,6 +108,16 @@ nav a[aria-current="page"] {
   letter-spacing: -0.01em;
 }
 
+.book-title {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border: 0;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 .profile-links {
   color: var(--muted);
   font-size: 0.93rem;
