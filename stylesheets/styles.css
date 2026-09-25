@@ -77,7 +77,7 @@ a:focus-visible {
   aspect-ratio: 4 / 5;
   margin: 2rem 0;
   object-fit: cover;
-  object-position: center 24%;
+  object-position: 25% center;
   filter: saturate(0.88) contrast(1.02);
 }
 
@@ -108,11 +108,7 @@ section + section { margin-top: 5.5rem; }
 
 p { margin: 0 0 1.25rem; }
 
-.lede {
-  font-size: clamp(1.2rem, 1.8vw, 1.45rem);
-  line-height: 1.55;
-  letter-spacing: -0.016em;
-}
+.cv-link { margin-top: 1.75rem; }
 
 h2 {
   margin: 0 0 2rem;
@@ -206,7 +202,7 @@ cite { font-style: italic; }
   .portrait {
     grid-column: 1;
     grid-row: 1 / span 4;
-    height: 100%;
+    height: auto;
     margin: 0;
   }
 
@@ -227,7 +223,7 @@ cite { font-style: italic; }
     grid-column: 1;
     grid-row: 1 / span 2;
     width: 100%;
-    height: 9.5rem;
+    height: 8.5rem;
     margin: 0;
   }
 
@@ -243,7 +239,6 @@ cite { font-style: italic; }
     margin: 1.4rem 0 0.7rem;
   }
 
-  .lede { font-size: 1.17rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
