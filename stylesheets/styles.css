@@ -257,7 +257,10 @@ cite { font-style: italic; }
 }
 
 .paper-item h3 a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #aeb7b1;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }
 
 .paper-meta {
