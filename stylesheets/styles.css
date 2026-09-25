@@ -137,6 +137,11 @@ nav a[aria-current="page"] {
   object-fit: cover;
 }
 
+.book-figures .article-screenshot {
+  height: auto;
+  object-fit: contain;
+}
+
 .book-figures .suicide-map {
   object-fit: contain;
   background: #fff;
