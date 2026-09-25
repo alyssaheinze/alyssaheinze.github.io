@@ -188,7 +188,7 @@ cite { font-style: italic; }
   font-size: 0.94rem;
 }
 
-.paper .status { color: var(--accent); }
+.status { color: var(--accent); }
 
 .visually-hidden {
   position: absolute;
