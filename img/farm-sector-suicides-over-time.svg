@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" role="img" aria-labelledby="title desc">
-  <title id="title">Farm-sector suicides in India, 2014–2024</title>
-  <desc id="desc">Line chart comparing annual deaths by suicide among farmers and cultivators with agricultural labourers. Farmer and cultivator deaths decline overall, while agricultural labourer deaths rise and exceed farmer and cultivator deaths from 2021 onward.</desc>
+  <title id="title">Farm-sector suicides in Maharashtra and the average Indian state, 2014–2024</title>
+  <desc id="desc">Line chart comparing annual farm-sector deaths by suicide in Maharashtra with the average across Indian states. Maharashtra remains far above the state average throughout the period.</desc>
   <rect width="820" height="470" fill="#fff"/>
   <g font-family="Arial, Helvetica, sans-serif">
     <text x="72" y="30" font-size="22" font-weight="700" fill="#171717">Farm-sector suicides over time</text>
     <g stroke="#dedbd5" stroke-width="1">
-      <line x1="74" y1="372" x2="780" y2="372"/>
+      <line x1="74" y1="370" x2="780" y2="370"/>
       <line x1="74" y1="301" x2="780" y2="301"/>
-      <line x1="74" y1="230" x2="780" y2="230"/>
-      <line x1="74" y1="159" x2="780" y2="159"/>
-      <line x1="74" y1="88" x2="780" y2="88"/>
+      <line x1="74" y1="232" x2="780" y2="232"/>
+      <line x1="74" y1="163" x2="780" y2="163"/>
+      <line x1="74" y1="94" x2="780" y2="94"/>
     </g>
     <g fill="#6d6a66" font-size="13" text-anchor="end">
-      <text x="64" y="377">4,000</text>
-      <text x="64" y="306">5,000</text>
-      <text x="64" y="235">6,000</text>
-      <text x="64" y="164">7,000</text>
-      <text x="64" y="93">8,000</text>
+      <text x="64" y="375">0</text>
+      <text x="64" y="306">1,000</text>
+      <text x="64" y="237">2,000</text>
+      <text x="64" y="168">3,000</text>
+      <text x="64" y="99">4,000</text>
     </g>
     <g fill="#6d6a66" font-size="12" text-anchor="middle">
       <text x="90" y="399">2014</text><text x="158" y="399">15</text>
@@ -26,19 +26,19 @@
       <text x="634" y="399">22</text><text x="702" y="399">23</text>
       <text x="770" y="399">24</text>
     </g>
-    <polyline fill="none" stroke="#242424" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="90,255 158,88 226,211 294,233 362,247 430,233 498,260 566,278 634,286 702,323 770,327"/>
-    <polyline fill="none" stroke="#b44a3c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="90,180 158,330 226,293 294,322 362,330 430,349 498,293 566,261 634,224 702,223 770,236"/>
-    <g fill="#242424">
-      <circle cx="90" cy="255" r="4"/><circle cx="158" cy="88" r="4"/><circle cx="226" cy="211" r="4"/><circle cx="294" cy="233" r="4"/><circle cx="362" cy="247" r="4"/><circle cx="430" cy="233" r="4"/><circle cx="498" cy="260" r="4"/><circle cx="566" cy="278" r="4"/><circle cx="634" cy="286" r="4"/><circle cx="702" cy="323" r="4"/><circle cx="770" cy="327" r="4"/>
+    <polyline fill="none" stroke="#a61f2b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="90,94 158,74 226,118 294,115 362,123 430,100 498,94 566,90 634,77 702,84 770,107"/>
+    <polyline fill="none" stroke="#8c918d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="90,341 158,340 226,343 294,345 362,345 430,346 498,344 566,343 634,342 702,344 770,344"/>
+    <g fill="#a61f2b">
+      <circle cx="90" cy="94" r="4"/><circle cx="158" cy="74" r="4"/><circle cx="226" cy="118" r="4"/><circle cx="294" cy="115" r="4"/><circle cx="362" cy="123" r="4"/><circle cx="430" cy="100" r="4"/><circle cx="498" cy="94" r="4"/><circle cx="566" cy="90" r="4"/><circle cx="634" cy="77" r="4"/><circle cx="702" cy="84" r="4"/><circle cx="770" cy="107" r="4"/>
     </g>
-    <g fill="#b44a3c">
-      <circle cx="90" cy="180" r="4"/><circle cx="158" cy="330" r="4"/><circle cx="226" cy="293" r="4"/><circle cx="294" cy="322" r="4"/><circle cx="362" cy="330" r="4"/><circle cx="430" cy="349" r="4"/><circle cx="498" cy="293" r="4"/><circle cx="566" cy="261" r="4"/><circle cx="634" cy="224" r="4"/><circle cx="702" cy="223" r="4"/><circle cx="770" cy="236" r="4"/>
+    <g fill="#8c918d">
+      <circle cx="90" cy="341" r="4"/><circle cx="158" cy="340" r="4"/><circle cx="226" cy="343" r="4"/><circle cx="294" cy="345" r="4"/><circle cx="362" cy="345" r="4"/><circle cx="430" cy="346" r="4"/><circle cx="498" cy="344" r="4"/><circle cx="566" cy="343" r="4"/><circle cx="634" cy="342" r="4"/><circle cx="702" cy="344" r="4"/><circle cx="770" cy="344" r="4"/>
     </g>
     <g font-size="14">
-      <line x1="80" y1="430" x2="108" y2="430" stroke="#242424" stroke-width="4"/>
-      <text x="116" y="435" fill="#242424">Farmers/cultivators</text>
-      <line x1="294" y1="430" x2="322" y2="430" stroke="#b44a3c" stroke-width="4"/>
-      <text x="330" y="435" fill="#242424">Agricultural labourers</text>
+      <line x1="80" y1="430" x2="108" y2="430" stroke="#a61f2b" stroke-width="5"/>
+      <text x="116" y="435" fill="#242424">Maharashtra</text>
+      <line x1="264" y1="430" x2="292" y2="430" stroke="#8c918d" stroke-width="4"/>
+      <text x="300" y="435" fill="#242424">Average Indian state</text>
     </g>
   </g>
 </svg>
