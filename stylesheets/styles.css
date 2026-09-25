@@ -130,6 +130,11 @@ nav a[aria-current="page"] {
   margin: 0;
 }
 
+.book-data-figures {
+  display: grid;
+  gap: 1.6rem;
+}
+
 .book-figures img {
   display: block;
   width: 100%;
@@ -142,7 +147,9 @@ nav a[aria-current="page"] {
   object-fit: contain;
 }
 
+.book-figures .suicide-chart,
 .book-figures .suicide-map {
+  height: auto;
   object-fit: contain;
   background: #fff;
 }
