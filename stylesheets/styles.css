@@ -249,12 +249,21 @@ cite { font-style: italic; }
 .status { color: var(--accent); }
 
 .articles-page h2 {
+  margin-bottom: 1.5rem;
   padding-bottom: 0;
   border-bottom: 0;
 }
 
+.articles-page section + section {
+  margin-top: 2.5rem;
+}
+
 .paper-item {
   padding: 0 0 1.75rem;
+}
+
+.articles-page .paper-item:last-child {
+  padding-bottom: 0;
 }
 
 .paper-item h3 {
