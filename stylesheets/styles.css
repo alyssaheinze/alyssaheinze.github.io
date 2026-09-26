@@ -42,8 +42,8 @@ a:focus-visible {
 
 .site-shell {
   display: grid;
-  grid-template-columns: 15.75rem minmax(0, var(--content));
-  gap: clamp(4rem, 9vw, 9rem);
+  grid-template-columns: 17rem minmax(0, var(--content));
+  gap: clamp(2.75rem, 6vw, 6rem);
   width: min(100% - 3rem, 72rem);
   margin: 0 auto;
   padding: clamp(4rem, 9vw, 7.5rem) 0 8rem;
@@ -75,7 +75,7 @@ a:focus-visible {
 .portrait {
   display: block;
   width: 100%;
-  height: 19.5rem;
+  height: 21rem;
   aspect-ratio: 4 / 5;
   margin: 2rem 0;
   object-fit: cover;
